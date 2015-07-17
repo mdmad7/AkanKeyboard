@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Akan Keyboard</string>
+    <string name="akan_ime">Akan IME</string>
+    <string name="subtype_ak_GH">Akan (GH)</string>
+    <string name="done_label">DONE</string>
+    <string name="go_label">GO</string>
+</resources>
