@@ -52,7 +52,7 @@
     <Row android:rowEdgeFlags="bottom" android:verticalGap="1%p">
         <Key android:codes="-2" android:keyLabel="SYM" android:keyWidth="15%p"  android:keyEdgeFlags="left"/>
         <Key android:codes="-7" android:keyLabel="SET" android:keyWidth="10%p" />
-        <Key android:codes="47" android:keyLabel="/" android:keyWidth="10%p" />
+        <Key android:codes="64" android:keyLabel="\@" android:keyWidth="10%p" />
         <Key android:codes="32" android:keyLabel="SPACE" android:keyWidth="30%p" android:isRepeatable="true"/>
         <Key android:codes="55001" android:keyLabel=".com" android:keyWidth="10%p" />
         <Key android:codes="46" android:keyLabel="." android:keyWidth="10%p"/>
